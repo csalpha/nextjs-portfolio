@@ -14,3 +14,7 @@
     1. npm i react-social-icons
 
 4.  Building the Header Section
+
+5.  Implementing Framer Motion
+
+    1. npm i framer-motion
