@@ -1,6 +1,8 @@
+import type { NextPage } from "next";
 import Head from "next/head";
+import Header from "../components/Header";
 
-export default function Home() {
+const Home: NextPage = () => {
   return (
     <div>
       <Head>
@@ -10,7 +12,7 @@ export default function Home() {
       </Head>
 
       {/* Header */}
-
+      <Header />
       {/* Hero */}
 
       {/* About */}
@@ -24,4 +26,6 @@ export default function Home() {
       {/* Contacte me */}
     </div>
   );
-}
+};
+
+export default Home;
