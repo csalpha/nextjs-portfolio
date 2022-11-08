@@ -18,3 +18,7 @@
 5.  Implementing Framer Motion
 
     1. npm i framer-motion
+
+6.  Implementing React Simple Type Writer
+
+    1. npm i react-simple-typewriter
