@@ -22,3 +22,5 @@
 6.  Implementing React Simple Type Writer
 
     1. npm i react-simple-typewriter
+
+7.  Adding background Cricles with Framer Motion
