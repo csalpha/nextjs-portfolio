@@ -26,3 +26,9 @@
 7.  Add background Cricles with Framer Motion
 
 8.  Build the Hero Section
+
+    1. create Hero.tsx
+
+9.  Create the About Section
+
+    1. create About.tsx
