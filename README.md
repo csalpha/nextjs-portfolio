@@ -13,14 +13,16 @@
 
     1. npm i react-social-icons
 
-4.  Building the Header Section
+4.  Build the Header Section
 
-5.  Implementing Framer Motion
+5.  Implement Framer Motion
 
     1. npm i framer-motion
 
-6.  Implementing React Simple Type Writer
+6.  Implementg React Simple Type Writer
 
     1. npm i react-simple-typewriter
 
-7.  Adding background Cricles with Framer Motion
+7.  Add background Cricles with Framer Motion
+
+8.  Build the Hero Section

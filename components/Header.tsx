@@ -36,7 +36,7 @@ export default function Header({}: Props) {
           bgColor='transparent'
         />
         <SocialIcon
-          url='https://www.twitter.com/'
+          url='https://www.linkedin.com/in/carlos-serodio-6b7404126/'
           fgColor='gray'
           bgColor='transparent'
         />
