@@ -32,3 +32,8 @@
 9.  Create the About Section
 
     1. create About.tsx
+
+10. Create the Work Experience Section
+
+    1. create WorkExperience.tsx
+    2. create ExperienceCard.tsx

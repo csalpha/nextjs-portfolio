@@ -17,7 +17,10 @@ export default function About({}: Props) {
       <h3 className='absolute top-24 uppercase tracking-[20px] text-grey-500 text-2xl'>
         About
       </h3>
-      <motion.div
+
+      <motion.img
+        src='assets/computer.jpg'
+        alt=''
         initial={{
           x: -200,
           opacity: 0,
@@ -31,10 +34,8 @@ export default function About({}: Props) {
         }}
         viewport={{ once: true }}
         className='-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover
-        md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl-h-[600px]'
-      >
-        <Image src={image} alt='' />
-      </motion.div>
+            md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl-h-[600px]'
+      />
 
       <div className='space-y-10 px-10 md:px-10'>
         <h4 className='text-4xl font-semibold'>
