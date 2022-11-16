@@ -46,3 +46,7 @@
 12. Create the Projects Section
 
     1. create the Projects.tsx
+
+13. Create the Contact Me Section
+
+    1. create ContactMe.tsx
