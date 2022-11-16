@@ -42,3 +42,7 @@
 
     1. create the Skills.tsx
     2. create the Skill.tsx
+
+12. Create the Projects Section
+
+    1. create the Projects.tsx
