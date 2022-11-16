@@ -27,13 +27,18 @@
 
 8.  Build the Hero Section
 
-    1. create Hero.tsx
+    1. create the Hero.tsx
 
 9.  Create the About Section
 
-    1. create About.tsx
+    1. create the About.tsx
 
 10. Create the Work Experience Section
 
-    1. create WorkExperience.tsx
-    2. create ExperienceCard.tsx
+    1. create the WorkExperience.tsx
+    2. create the ExperienceCard.tsx
+
+11. Create the Skills Section
+
+    1. create the Skills.tsx
+    2. create the Skill.tsx
