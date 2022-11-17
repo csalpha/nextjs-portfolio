@@ -54,3 +54,8 @@
 14. Install Heroicons
 
     1. npm install @heroicons/react
+
+15. Build Contact Me Section
+
+    1. create form
+    2. style form
