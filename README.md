@@ -69,3 +69,5 @@
 18. Install and implement Tailwind Scroll Bar
 
     1. npm install --save-dev tailwind-scrollbar
+
+19. Add Home Button
