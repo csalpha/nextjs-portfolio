@@ -50,3 +50,7 @@
 13. Create the Contact Me Section
 
     1. create ContactMe.tsx
+
+14. Install Heroicons
+
+    1. npm install @heroicons/react
