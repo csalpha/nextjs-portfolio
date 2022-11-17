@@ -65,3 +65,7 @@
     1. npm install react-hook-form
 
 17. Redirect to an email address
+
+18. Install and implement Tailwind Scroll Bar
+
+    1. npm install --save-dev tailwind-scrollbar
