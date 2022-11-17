@@ -14,7 +14,9 @@ type Props = {};
 export default function ContactMe({}: Props) {
   const { register, handleSubmit } = useForm<Inputs>();
 
-  const onSubmit: SubmitHandler<Inputs> = (formData) => console.log(formData);
+  const onSubmit: SubmitHandler<Inputs> = (formData) => {
+    window.location.href = `mailto:carlosserodio@hotmail.com?subject=${formData.subject}&body=Hi, my name is ${formData.name}. ${formData.message} (${formData.email})`;
+  };
 
   return (
     <div
@@ -58,7 +60,7 @@ export default function ContactMe({}: Props) {
           />
           <input
             {...register("email")}
-            placeholder='Email'
+            placeholder='email'
             className='contactInput'
             type='text'
           />

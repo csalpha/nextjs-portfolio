@@ -63,3 +63,5 @@
 16. React Hook Form
 
     1. npm install react-hook-form
+
+17. Redirect to an email address
